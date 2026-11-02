@@ -1,2 +1,2 @@
 # javaproject
-Java project gemaakt voor school. Een CRUD-applicatie waarin moestuinen kunnen worden geregistreerd en opgeslagen in een MySQL database
+CRUD-project ontworpen en gebouwd in Java waarin moestuinen kunnen worden geregistreerd en opgeslagen in een MySQL database
